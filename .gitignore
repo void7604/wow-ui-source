@@ -10,3 +10,4 @@ InterfaceExport
 # Script created files
 fails*.txt
 version.txt
+.vscode/settings.json
